@@ -1,2 +1,2 @@
-export FLASK_APP=SelfManager
+export FLASK_APP=Belima
 flask run --host=0.0.0.0
